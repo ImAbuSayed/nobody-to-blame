@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/nobody-to-blame/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Nobody to Blame](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/nobody-to-blame/) |
+| **Get License** | [Request Licensing for Nobody to Blame](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/nobody-to-blame/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Midnight is slipping right through the screen door
+> I've never wanted somebody this much before
+> We're burning so bright in this warm summer rain
+> If we fall in love tonight, there's nobody to blame
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
