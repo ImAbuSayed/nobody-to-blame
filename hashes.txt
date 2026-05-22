@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Nobody to Blame
+
+This log tracks the cryptographic history and versioning for the song **Nobody to Blame** (nobody-to-blame).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-23T04:36:46.722301 | `v1` | `6dddbd881431aec7d4291792cec9497a42bbfd84d3fda13ce17a20e0fe849c21` | `0a6bf7a6db1dd7e6d0d1c037af490d4497ad6f371264cf813c23ff19c092670a` | `2026-05-23_nobody-to-blame-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
